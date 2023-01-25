@@ -1,5 +1,5 @@
 # 🎥 movie_app
-React를 사용한 영화 정보 보여주기 웹 페이지 (2022, HTML+CSS+JavaScript)
+React를 사용한 영화 정보 보여주기 웹 페이지 (2022, React)
 <br><br>
 
 ## 프로젝트 설명
